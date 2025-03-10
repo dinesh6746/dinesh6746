@@ -1,10 +1,18 @@
-- 👋 Hi, I’m Dinesh Das
-- 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning Full stack Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 dineshdas79785@gmail.com
-- 😄 Pronouns: Rinku
-- ⚡ Fun fact: ...
+👋 Hi, I'm Dinesh Das!
+🌟 A passionate Java Developer eager to build efficient and scalable applications. I love solving problems, learning new technologies, and collaborating on exciting projects!
+
+🚀 About Me
+👀 I’m interested in Web Development & Java Backend
+🌱 I’m currently learning Full Stack Java (Spring Boot, React, MySQL)
+💡 Open to collaborations on interesting projects
+📫 Reach me at: dineshdas79785@gmail.com
+💻 Checkout my projects below!
+🛠️ Tech Stack
+🔹 Programming Languages: Java, JavaScript, Python
+🔹 Backend: Spring Boot, Hibernate, REST APIs
+🔹 Frontend: React.js, HTML, CSS
+🔹 Database: MySQL, Oracle
+🔹 Tools: GitHub, VS Code, Eclipse
 
 <!---
 dinesh6746/dinesh6746 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
